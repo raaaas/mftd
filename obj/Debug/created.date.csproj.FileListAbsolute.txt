@@ -1,0 +1,8 @@
+C:\Users\User\Documents\SharpDevelop Projects\created.date\created.date\obj\Debug\created.date.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\SharpDevelop Projects\created.date\created.date\obj\Debug\created.date.MainForm.resources
+C:\Users\User\Documents\SharpDevelop Projects\created.date\created.date\obj\Debug\created.date.csproj.GenerateResource.Cache
+C:\Users\User\Documents\SharpDevelop Projects\created.date\created.date\bin\Debug\created.date.exe.config
+C:\Users\User\Documents\SharpDevelop Projects\created.date\created.date\bin\Debug\created.date.exe
+C:\Users\User\Documents\SharpDevelop Projects\created.date\created.date\bin\Debug\created.date.pdb
+C:\Users\User\Documents\SharpDevelop Projects\created.date\created.date\obj\Debug\created.date.exe
+C:\Users\User\Documents\SharpDevelop Projects\created.date\created.date\obj\Debug\created.date.pdb
